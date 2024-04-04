@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/solarius/static/css/main.44ed1ea0.css",
+    "main.js": "/solarius/static/js/main.0223451a.js",
+    "static/media/solar.jpg": "/solarius/static/media/solar.a40a8998385479eb1589.jpg",
+    "static/media/graph.jpg": "/solarius/static/media/graph.d608bf019bef650b67ce.jpg",
+    "static/media/azimuth.gif": "/solarius/static/media/azimuth.43a1fadc15f00e31cbc9.gif",
+    "static/media/slope.gif": "/solarius/static/media/slope.effd46194a5acb2c4515.gif",
+    "index.html": "/solarius/index.html",
+    "main.44ed1ea0.css.map": "/solarius/static/css/main.44ed1ea0.css.map",
+    "main.0223451a.js.map": "/solarius/static/js/main.0223451a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44ed1ea0.css",
+    "static/js/main.0223451a.js"
+  ]
+}
