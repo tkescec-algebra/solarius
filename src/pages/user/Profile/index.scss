@@ -1,0 +1,9 @@
+.map-result {
+    top: 20px;
+}
+
+@media screen and (max-width: 575px) {
+    .map-result {
+        top: 10px;
+    }
+}
